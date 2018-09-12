@@ -1,0 +1,67 @@
+/* Build your CSS from scratch in this file */
+#container{
+    background-color: #1b345d;
+    width: 970px;
+    padding: 10px;
+}
+
+#header{
+    background-color: #cf2f36;
+    color: #c2d6eb;
+    font-size:12px;
+    border-radius: 5px;
+    padding: 2px 0px 2px 10px;
+}
+
+#navigation{
+    background-color: #2a7c8c;
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+#navi-home{
+    margin-bottom:-15px;
+    margin-left: 5px;
+    color: #55c8e3;
+    font-size:12px;
+}
+
+#main-content{
+    background-color: #0e1822;
+    color: #c2d6eb;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0px 10px 10px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 12px;
+    width: 775px;
+}
+
+#footer{
+    background-color: #5d6673;
+    border-radius: 15px;
+    color: #c2d6eb;
+    font-size: 12px;
+    padding: 5px 0px 5px 10px;
+    
+}
+
+a{
+    color: #55c8e3;
+}
+
+span{
+    color: #6e7bf2
+}
+
+ul{
+    /* margin-left: 0px; */
+    margin-right: 5px;
+    padding-left: 20px;
+    color: #c0d5ea;
+    /* margin: 5px; */
+}
